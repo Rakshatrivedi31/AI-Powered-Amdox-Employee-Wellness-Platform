@@ -1,1 +1,5 @@
+[logger]
+level = "error"
 
+[client]
+showErrorDetails = false
