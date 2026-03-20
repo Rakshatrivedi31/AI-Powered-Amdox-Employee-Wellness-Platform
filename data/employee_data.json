@@ -1,0 +1,1097 @@
+{
+  "employees": {
+    "Raksha": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.686936",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 4,
+          "stress_level": 2.3,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.686936",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 3,
+          "stress_level": 4.9,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.686936",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 3,
+          "stress_level": 4.7,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.686936",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 6.0,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.686936",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 8,
+          "stress_level": 4.8,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.686936",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Angry",
+          "workload": 7,
+          "stress_level": 7.5,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.686936",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 9,
+          "stress_level": 8.5,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-03-05T19:17:17.121661",
+          "date": "2026-03-05",
+          "time": "19:17",
+          "emotion": "Stressed",
+          "workload": 3,
+          "stress_level": 9.7,
+          "method": "text"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Alpha 🔵",
+      "email": "raksha@company.com",
+      "employee_id": "raksha",
+      "is_lead": true,
+      "last_emotion": "Stressed",
+      "last_workload": 3
+    },
+    "Sneha": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.688024",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 3,
+          "stress_level": 4.0,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.688024",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 4,
+          "stress_level": 4.6,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.688024",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 5,
+          "stress_level": 4.8,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.688024",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 6,
+          "stress_level": 6.0,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.688024",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 7,
+          "stress_level": 4.9,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.688024",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 10,
+          "stress_level": 6.4,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.688024",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 7,
+          "stress_level": 6.6,
+          "method": "manual"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Alpha 🔵",
+      "email": "sneha@company.com",
+      "employee_id": "sneha",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    },
+    "Smita": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.688024",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 6,
+          "stress_level": 4.3,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.688024",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 3,
+          "stress_level": 2.4,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.689134",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 5,
+          "stress_level": 2.5,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.689134",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 4,
+          "stress_level": 4.3,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.689134",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 8,
+          "stress_level": 6.4,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.689134",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 10,
+          "stress_level": 8.1,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.689134",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 9,
+          "stress_level": 7.3,
+          "method": "manual"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Alpha 🔵",
+      "email": "smita@company.com",
+      "employee_id": "smita",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    },
+    "Isha": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.689134",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 6,
+          "stress_level": 3.3,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.689134",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 4,
+          "stress_level": 4.6,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.689134",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 6,
+          "stress_level": 3.8,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.689134",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 7,
+          "stress_level": 4.2,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.689134",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 5,
+          "stress_level": 6.5,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.689134",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 10,
+          "stress_level": 6.9,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.689134",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 7,
+          "stress_level": 6.6,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-28T17:39:58.877643",
+          "date": "2026-02-28",
+          "time": "17:39",
+          "emotion": "Sad",
+          "workload": 3,
+          "stress_level": 7.9,
+          "method": "camera"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Alpha 🔵",
+      "email": "isha@company.com",
+      "employee_id": "isha",
+      "is_lead": false,
+      "last_emotion": "Sad",
+      "last_workload": 3
+    },
+    "Saniya": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.689134",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 5,
+          "stress_level": 2.2,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.689134",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 6,
+          "stress_level": 3.8,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.689134",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 6,
+          "stress_level": 3.2,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.689134",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 7,
+          "stress_level": 5.6,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.689134",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 7,
+          "stress_level": 6.1,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.689134",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 9,
+          "stress_level": 7.4,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.689134",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 10,
+          "stress_level": 8.1,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-28T17:22:21.561501",
+          "date": "2026-02-28",
+          "time": "17:22",
+          "emotion": "Happy",
+          "workload": 4,
+          "stress_level": 4.8,
+          "method": "text"
+        }
+      ],
+      "tasks": [],
+      "alerts": [
+        {
+          "employee": "Saniya",
+          "level": "MONITOR",
+          "level_emoji": "👀",
+          "color": "#ffd93d",
+          "stress_level": 4.8,
+          "message": "👀 MONITOR: Saniya's stress is increasing (4.8/10) — keep an eye on it.",
+          "actions": [
+            "📈 Monitor stress trends over next 3 days",
+            "☕ Encourage regular breaks",
+            "🗣️ Keep communication channels open",
+            "🎯 Ensure realistic deadlines",
+            "🌟 Recognise and appreciate their work"
+          ],
+          "timestamp": "2026-02-28 17:22",
+          "resolved": true,
+          "resolved_at": "2026-02-28 17:26"
+        }
+      ],
+      "team": "Team Beta 🟢",
+      "email": "saniya@company.com",
+      "employee_id": "saniya",
+      "is_lead": false,
+      "last_emotion": "Happy",
+      "last_workload": 4
+    },
+    "Arjun": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.689134",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 4.4,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.689134",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 4,
+          "stress_level": 2.3,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.689134",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 6,
+          "stress_level": 3.3,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.689134",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 7,
+          "stress_level": 6.6,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.689134",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 8,
+          "stress_level": 6.3,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.689134",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 10,
+          "stress_level": 8.7,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.689134",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 7.2,
+          "method": "camera"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Beta 🟢",
+      "email": "arjun@company.com",
+      "employee_id": "arjun",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    },
+    "Priya": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.689134",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 6,
+          "stress_level": 3.2,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.689134",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 4,
+          "stress_level": 4.6,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.689134",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 6,
+          "stress_level": 5.0,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.689134",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 4,
+          "stress_level": 5.5,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.690130",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 6,
+          "stress_level": 6.1,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.690130",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 8.1,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.690130",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 8,
+          "stress_level": 7.0,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-03-01T10:57:09.255166",
+          "date": "2026-03-01",
+          "time": "10:57",
+          "emotion": "Happy",
+          "workload": 3,
+          "stress_level": 3.7,
+          "method": "text"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Beta 🟢",
+      "email": "priya@company.com",
+      "employee_id": "priya",
+      "is_lead": false,
+      "last_emotion": "Happy",
+      "last_workload": 3
+    },
+    "Kajal": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.690130",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 5,
+          "stress_level": 2.5,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.690130",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 4,
+          "stress_level": 4.8,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.690130",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 4,
+          "stress_level": 4.2,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.690130",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 8,
+          "stress_level": 5.0,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.690130",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 6.2,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.690130",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Angry",
+          "workload": 10,
+          "stress_level": 7.0,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.690130",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 8,
+          "stress_level": 6.9,
+          "method": "speech"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Beta 🟢",
+      "email": "kajal@company.com",
+      "employee_id": "kajal",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    },
+    "Divya": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.690130",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 3,
+          "stress_level": 4.5,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.690130",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 6,
+          "stress_level": 2.8,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.690130",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 3,
+          "stress_level": 2.2,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.690130",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 5,
+          "stress_level": 5.5,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.690130",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 7,
+          "stress_level": 6.9,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.690130",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Angry",
+          "workload": 10,
+          "stress_level": 6.7,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.690130",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 6,
+          "stress_level": 6.4,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-28T18:10:01.755331",
+          "date": "2026-02-28",
+          "time": "18:10",
+          "emotion": "Happy",
+          "workload": 3,
+          "stress_level": 4.5,
+          "method": "text"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Gamma 🔴",
+      "email": "divya@company.com",
+      "employee_id": "divya",
+      "is_lead": true,
+      "last_emotion": "Happy",
+      "last_workload": 3
+    },
+    "Rohit": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.690130",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 3,
+          "stress_level": 4.0,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.690130",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 4,
+          "stress_level": 4.3,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.690130",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 4,
+          "stress_level": 4.1,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.690130",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 4,
+          "stress_level": 5.5,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.690130",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 7,
+          "stress_level": 4.4,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.690130",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Angry",
+          "workload": 6,
+          "stress_level": 7.9,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.690130",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 6,
+          "stress_level": 8.9,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-28T17:03:03.235025",
+          "date": "2026-02-28",
+          "time": "17:03",
+          "emotion": "Neutral",
+          "workload": 4,
+          "stress_level": 6.8,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-28T17:03:24.914443",
+          "date": "2026-02-28",
+          "time": "17:03",
+          "emotion": "Sad",
+          "workload": 4,
+          "stress_level": 9.8,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-28T17:03:46.317924",
+          "date": "2026-02-28",
+          "time": "17:03",
+          "emotion": "Neutral",
+          "workload": 4,
+          "stress_level": 6.8,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-28T17:04:01.246131",
+          "date": "2026-02-28",
+          "time": "17:04",
+          "emotion": "Happy",
+          "workload": 4,
+          "stress_level": 4.0,
+          "method": "camera"
+        }
+      ],
+      "tasks": [],
+      "alerts": [
+        {
+          "employee": "Rohit",
+          "level": "WARNING",
+          "level_emoji": "⚠️",
+          "color": "#ffa502",
+          "stress_level": 6.8,
+          "message": "⚠️ WARNING: Rohit's stress is at 6.8/10. Please check in within 24 hours.",
+          "actions": [
+            "📅 Check-in with employee within 24 hours",
+            "📊 Review and balance workload",
+            "⏰ Offer flexible working schedule",
+            "📚 Share stress management resources",
+            "💬 Keep communication open"
+          ],
+          "timestamp": "2026-02-28 17:03",
+          "resolved": true,
+          "resolved_at": "2026-02-28 17:26"
+        },
+        {
+          "employee": "Rohit",
+          "level": "CRITICAL",
+          "level_emoji": "🚨",
+          "color": "#ff4757",
+          "stress_level": 9.8,
+          "message": "🚨 CRITICAL: Rohit's stress is at 9.8/10! Immediate manager intervention required.",
+          "actions": [
+            "🆘 IMMEDIATE manager intervention required",
+            "🧘 Offer emergency counseling session",
+            "📉 Reduce workload NOW",
+            "🏖️ Consider emergency time off",
+            "📞 Schedule urgent 1-on-1 within the hour"
+          ],
+          "timestamp": "2026-02-28 17:03",
+          "resolved": true,
+          "resolved_at": "2026-02-28 17:26"
+        },
+        {
+          "employee": "Rohit",
+          "level": "WARNING",
+          "level_emoji": "⚠️",
+          "color": "#ffa502",
+          "stress_level": 6.8,
+          "message": "⚠️ WARNING: Rohit's stress is at 6.8/10. Please check in within 24 hours.",
+          "actions": [
+            "📅 Check-in with employee within 24 hours",
+            "📊 Review and balance workload",
+            "⏰ Offer flexible working schedule",
+            "📚 Share stress management resources",
+            "💬 Keep communication open"
+          ],
+          "timestamp": "2026-02-28 17:03",
+          "resolved": true,
+          "resolved_at": "2026-02-28 17:26"
+        }
+      ],
+      "team": "Team Gamma 🔴",
+      "email": "rohit@company.com",
+      "employee_id": "rohit",
+      "is_lead": false,
+      "last_emotion": "Happy",
+      "last_workload": 4
+    },
+    "Anjali": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.690130",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 5,
+          "stress_level": 3.8,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.690130",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 3,
+          "stress_level": 4.6,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.690130",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Energetic",
+          "workload": 3,
+          "stress_level": 3.4,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.690130",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Happy",
+          "workload": 5,
+          "stress_level": 7.0,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.690130",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 7,
+          "stress_level": 4.4,
+          "method": "camera"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.690130",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Stressed",
+          "workload": 10,
+          "stress_level": 8.4,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.690130",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 7,
+          "stress_level": 8.7,
+          "method": "manual"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Gamma 🔴",
+      "email": "anjali@company.com",
+      "employee_id": "anjali",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    },
+    "Vikram": {
+      "mood_history": [
+        {
+          "timestamp": "2026-02-21T17:02:11.690130",
+          "date": "2026-02-21",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 6,
+          "stress_level": 4.0,
+          "method": "manual"
+        },
+        {
+          "timestamp": "2026-02-22T17:02:11.691136",
+          "date": "2026-02-22",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 3,
+          "stress_level": 2.6,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-23T17:02:11.691136",
+          "date": "2026-02-23",
+          "time": "17:02",
+          "emotion": "Neutral",
+          "workload": 3,
+          "stress_level": 2.8,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-24T17:02:11.691136",
+          "date": "2026-02-24",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 4,
+          "stress_level": 6.7,
+          "method": "speech"
+        },
+        {
+          "timestamp": "2026-02-25T17:02:11.691136",
+          "date": "2026-02-25",
+          "time": "17:02",
+          "emotion": "Calm",
+          "workload": 8,
+          "stress_level": 4.0,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-26T17:02:11.691136",
+          "date": "2026-02-26",
+          "time": "17:02",
+          "emotion": "Tired",
+          "workload": 7,
+          "stress_level": 7.6,
+          "method": "text"
+        },
+        {
+          "timestamp": "2026-02-27T17:02:11.691136",
+          "date": "2026-02-27",
+          "time": "17:02",
+          "emotion": "Angry",
+          "workload": 9,
+          "stress_level": 7.3,
+          "method": "text"
+        }
+      ],
+      "tasks": [],
+      "alerts": [],
+      "team": "Team Gamma 🔴",
+      "email": "vikram@company.com",
+      "employee_id": "vikram",
+      "is_lead": false,
+      "last_emotion": "Neutral",
+      "last_workload": 5
+    }
+  },
+  "teams": {
+    "Team Alpha 🔵": {
+      "members": [
+        "Raksha",
+        "Sneha",
+        "Smita",
+        "Isha"
+      ],
+      "lead": "Raksha",
+      "department": "Engineering",
+      "color": "#667eea",
+      "icon": "🔵"
+    },
+    "Team Beta 🟢": {
+      "members": [
+        "Saniya",
+        "Arjun",
+        "Priya",
+        "Kajal"
+      ],
+      "lead": "Saniya",
+      "department": "Design",
+      "color": "#00e87a",
+      "icon": "🟢"
+    },
+    "Team Gamma 🔴": {
+      "members": [
+        "Divya",
+        "Rohit",
+        "Anjali",
+        "Vikram"
+      ],
+      "lead": "Divya",
+      "department": "Marketing",
+      "color": "#ff4757",
+      "icon": "🔴"
+    }
+  }
+}

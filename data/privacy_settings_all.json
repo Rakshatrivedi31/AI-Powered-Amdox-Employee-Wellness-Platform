@@ -1,0 +1,8 @@
+{
+  "anjali": {
+    "camera_access": true,
+    "mic_access": true,
+    "share_mood_with_team": true,
+    "email_alerts": true
+  }
+}
